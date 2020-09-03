@@ -1,5 +1,6 @@
-# RADEA-platform-10
-Here is the calculation/results of sprint - RADEA platform 10
+# RADEA-platform-Business KPIs:
+## Research:
+Here is the calculations and results of Business KPIs.
 
-RP-401 Monitoring inventory prediction
+RP-inventory prediction
 Inventory prediction monitoring based on predicted values for last week by prediction model with confidence interval. 
